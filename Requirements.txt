@@ -1,5 +1,5 @@
-Python==3.8.7
+# Python==3.8.7
 
-chromedriver.exe
+# chromedriver.exe - you must download from https://chromedriver.chromium.org/downloads and choose the version that works for your Google Chrome browser
 selenium==3.141.0
 regex==2020.11.13
